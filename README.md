@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Moksh Dhiman</h1>
-<h4 align="center">A dedicated full stack developer and a final year B.E. undergrad at Thapar Institute of engineering and technology, currently seeking opportunities in the same field.</h4>
+<h4 align="center">A dedicated full stack developer and a final year B.E. undergrad at Thapar Institute of engineering and technology, currently seeking opportunities in the software development.</h4>
 <br>
 
 
